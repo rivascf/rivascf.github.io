@@ -22,11 +22,11 @@ repository               : "rivascf/rivascf.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "About me"
+  name             : "Felipe Rivas"
   pronouns         : # example: "she/her"  
-  bio              : "Great guy!"
-  location         : "MIT"
-  employer         : "Red Brick University"
+  bio              : "PhD student at MIT"
+  location         : "Cambridge, MA."
+  employer         : # ""
   uri              : # URL
   email            : "rivascf@gmail.com" 
 
