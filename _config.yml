@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Felipe Rivas"
+title                    : "Demo / Draft"
 title_separator          : "-"
 name                     : &name "Felipe Rivas"
 description              : &description "Robotic Developer"
