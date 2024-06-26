@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## For demo purposes only...
+
 I am currently pursuing a Ph.D. at the Massachusetts Institute of Technology (MIT), specializing in Advanced Multimodal Interaction Models and Robotic Agents for Large-Scale Orchestration of Complex Tasks. My academic journey and professional experiences have consistently revolved around the intersection of artificial intelligence, robotics, and human-computer interaction.
 
 My research primarily focuses on developing sophisticated multimodal interaction models that enable more intuitive and effective communication between humans and robotic agents. These models are designed to integrate various forms of input, such as speech, gestures, and visual cues, to create a more natural and seamless interaction experience. By leveraging advancements in machine learning and computer vision, my goal is to enhance the capability of robotic systems to understand and respond to complex human instructions in real-time.
